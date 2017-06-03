@@ -1,0 +1,24 @@
+{
+	"name": "git-frat",
+	"version": "0.0.1",
+	"description": "Alternative to git archive, creating fraternal clones without history.",
+	"main": "git-frat.js",
+	"bin": {
+		"git-frat": "git-frat.js",
+		"git-fraternal": "git-frat.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cookiengineer/git-frat.git"
+	},
+	"keywords": [
+		"git",
+		"diff"
+	],
+	"author": "Cookie Engineer",
+	"license": "GPL-2.0",
+	"bugs": {
+		"url": "https://github.com/cookiengineer/git-frat/issues"
+	},
+	"homepage": "https://github.com/cookiengineer/git-frat#readme"
+}
